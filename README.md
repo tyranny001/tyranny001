@@ -74,19 +74,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tyranny001&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tyranny001&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyranny001&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 📫 Connect With Me
 - 📧 Email: **ravitendulkar88@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/g-tendulkar-517ab0248](https://linkedin.com/in/g-tendulkar-517ab0248)
